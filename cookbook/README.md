@@ -18,3 +18,4 @@ A collection of best practices for using open source ERNIE models.
 | [Key Information Extraction](/cookbook/notebook/key_information_extraction_tutorial_en.ipynb) |  Key Information Extraction in Contract Scenarios Based on ERNIE and PaddleOCR. | - |
 </div>
 
+
